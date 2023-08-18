@@ -24,21 +24,15 @@ Aqui estão algumas das linguagens e tecnologias que estou familiarizado:
 
 - **SQL:** Tenho conhecimentos em SQL, o que me permite gerenciar e manipular dados em bancos de dados.
 
-## Projetos Pessoais
 
-Durante a minha jornada de aprendizado, trabalhei em diversos projetos pessoais para aplicar meus conhecimentos e explorar diferentes áreas da programação. Alguns dos projetos incluem:
-
-- [Projeto X](https://github.com/seuusuario/projeto-x): Breve descrição do Projeto X e suas funcionalidades.
-
-- [Projeto Y](https://github.com/seuusuario/projeto-y): Descrição do Projeto Y e seu impacto.
 
 ## Contato
 
 Estou sempre aberto a discussões, colaborações e oportunidades de aprendizado. Você pode entrar em contato comigo através dos seguintes meios:
 
-- Email: joao.suzin@example.com
+- Email: joaosuzin@icloud.com
 - LinkedIn: [João Suzin](https://www.linkedin.com/in/joaosuzin/)
-- Twitter: [@joaosuzin](https://twitter.com/joaosuzin)
+
 
 ## Licença
 
