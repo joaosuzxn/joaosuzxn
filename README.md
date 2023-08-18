@@ -1,16 +1,49 @@
-### Hi there 👋
+# Perfil GitHub - João Suzin
 
-<!--
-**joaosuzxn/joaosuzxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Seja bem-vindo ao meu perfil do GitHub. Meu nome é João Suzin e estou empolgado em compartilhar um pouco sobre mim e meus interesses no mundo da programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nome:** João Suzin
+- **Formação:** Estudante de Ciências da Computação na Universidade Federal do Amapá (UNIFAP)
+- **Cursando:** Estudante de JavaScript na [Cubos Academy](https://cubos.academy/)
+
+## Interesses
+
+Sou apaixonado por programação e estou sempre buscando aprender e aprimorar minhas habilidades em diferentes linguagens e tecnologias. Atualmente, estou focado em JavaScript, mas também tenho experiência com outras linguagens, como C e SQL.
+
+## Linguagens e Tecnologias
+
+Aqui estão algumas das linguagens e tecnologias que estou familiarizado:
+
+- **C:** Tenho experiência em programação em C, o que me proporcionou uma compreensão mais profunda de conceitos de programação e lógica.
+
+- **Node.js:** Atualmente, estou estudando Node.js, o que me permite construir aplicativos de backend robustos e escaláveis usando JavaScript.
+
+- **JavaScript (JS):** Estou estudando JavaScript na [Cubos Academy](https://cubos.academy/) para criar aplicativos web interativos e dinâmicos.
+
+- **SQL:** Tenho conhecimentos em SQL, o que me permite gerenciar e manipular dados em bancos de dados.
+
+## Projetos Pessoais
+
+Durante a minha jornada de aprendizado, trabalhei em diversos projetos pessoais para aplicar meus conhecimentos e explorar diferentes áreas da programação. Alguns dos projetos incluem:
+
+- [Projeto X](https://github.com/seuusuario/projeto-x): Breve descrição do Projeto X e suas funcionalidades.
+
+- [Projeto Y](https://github.com/seuusuario/projeto-y): Descrição do Projeto Y e seu impacto.
+
+## Contato
+
+Estou sempre aberto a discussões, colaborações e oportunidades de aprendizado. Você pode entrar em contato comigo através dos seguintes meios:
+
+- Email: joao.suzin@example.com
+- LinkedIn: [João Suzin](https://www.linkedin.com/in/joaosuzin/)
+- Twitter: [@joaosuzin](https://twitter.com/joaosuzin)
+
+## Licença
+
+Este perfil do GitHub segue os termos da [Licença do GitHub](LICENSE). Certifique-se de respeitar os direitos de uso das informações e projetos aqui apresentados.
+
+Espero que você ache interessante as minhas explorações em programação e tecnologia. Obrigado por visitar o meu perfil!
+
+
