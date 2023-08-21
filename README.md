@@ -31,7 +31,7 @@ Aqui estão algumas das linguagens e tecnologias que estou familiarizado:
 Estou sempre aberto a discussões, colaborações e oportunidades de aprendizado. Você pode entrar em contato comigo através dos seguintes meios:
 
 - Email: joaosuzin@icloud.com
-- LinkedIn: [João Suzin](https://www.linkedin.com/in/joaosuzin/)
+- LinkedIn: [João Suzin](https://www.linkedin.com/in/jo%C3%A3o-suzin-a8282a264/)
 
 
 ## Licença
