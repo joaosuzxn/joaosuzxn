@@ -20,7 +20,7 @@ Aqui estão algumas das linguagens e tecnologias que estou familiarizado:
 
 - **Node.js:** Atualmente, estou estudando Node.js, o que me permite construir aplicativos de backend robustos e escaláveis usando JavaScript.
 
-- **JavaScript (JS):** Estou estudando JavaScript na [Cubos Academy](https://cubos.academy/) para criar aplicativos web interativos e dinâmicos.
+- **JavaScript (JS):** Estudei JavaScript na [Cubos Academy](https://cubos.academy/) para criar aplicativos web interativos e dinâmicos.
 
 - **SQL:** Tenho conhecimentos em SQL, o que me permite gerenciar e manipular dados em bancos de dados.
 
