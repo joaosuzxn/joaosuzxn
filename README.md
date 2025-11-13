@@ -5,8 +5,7 @@ Olá! 👋 Seja bem-vindo ao meu perfil do GitHub. Meu nome é João Suzin e est
 ## Sobre Mim
 
 - **Nome:** João Suzin
-- **Formação:** Estudante de Ciências da Computação na Universidade Federal do Amapá (UNIFAP)
-- **Cursando:** Estudante de JavaScript na [Cubos Academy](https://cubos.academy/)
+- **Formação:** Estudante de Ciências da Computação na Universidade Federal do Amapá 
 
 ## Interesses
 
